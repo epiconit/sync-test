@@ -43,3 +43,5 @@ From https://github.com/aquasecurity/trivy-db
 /git/testfield/trivy-db.git # git push origin --all -f
 Everything up-to-date
 /git/testfield/trivy-db.git #
+
+use edit mode to read clearly
